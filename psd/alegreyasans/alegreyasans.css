@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Thin'), local('AlegreyaSans-Thin'), url('alegreyasansthin.woff2') format('woff2'), url('alegreyasansthin.woff') format('woff'), url('alegreyasansthin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Thin Italic'), local('AlegreyaSans-ThinItalic'), url('alegreyasansthinitalic.woff2') format('woff2'), url('alegreyasansthinitalic.woff') format('woff'), url('alegreyasansthinitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Light'), local('AlegreyaSans-Light'), url('alegreyasanslight.woff2') format('woff2'), url('alegreyasanslight.woff') format('woff'), url('alegreyasanslight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Light Italic'), local('AlegreyaSans-LightItalic'), url('alegreyasanslightitalic.woff2') format('woff2'), url('alegreyasanslightitalic.woff') format('woff'), url('alegreyasanslightitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans'), local('Alegreya Sans'), url('alegreyasans.woff2') format('woff2'), url('alegreyasans.woff') format('woff'), url('alegreyasans.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Italic'), local('AlegreyaSans-Italic'), url('alegreyasansitalic.woff2') format('woff2'), url('alegreyasansitalic.woff') format('woff'), url('alegreyasansitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Medium'), local('AlegreyaSans-Medium'), url('alegreyasansmedium.woff2') format('woff2'), url('alegreyasansmedium.woff') format('woff'), url('alegreyasansmedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Medium Italic'), local('AlegreyaSans-MediumItalic'), url('alegreyasansmediumitalic.woff2') format('woff2'), url('alegreyasansmediumitalic.woff') format('woff'), url('alegreyasansmediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Bold'), local('AlegreyaSans-Bold'), url('alegreyasansbold.woff2') format('woff2'), url('alegreyasansbold.woff') format('woff'), url('alegreyasansbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Bold Italic'), local('AlegreyaSans-BoldItalic'), url('alegreyasansbolditalic.woff2') format('woff2'), url('alegreyasansbolditalic.woff') format('woff'), url('alegreyasansbolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans ExtraBold'), local('Alegreya Sans ExtraBold'), url('alegreyasansextrabold.woff2') format('woff2'), url('alegreyasansextrabold.woff') format('woff'), url('alegreyasansextrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans ExtraBold Italic'), local('Alegreya Sans ExtraBold Italic'), url('alegreyasansextrabolditalic.woff2') format('woff2'), url('alegreyasansextrabolditalic.woff') format('woff'), url('alegreyasansextrabolditalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Black'), local('AlegreyaSans-Black'), url('alegreyasansblack.woff2') format('woff2'), url('alegreyasansblack.woff') format('woff'), url('alegreyasansblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Black Italic'), local('AlegreyaSans-BlackItalic'), url('alegreyasansblackitalic.woff2') format('woff2'), url('alegreyasansblackitalic.woff') format('woff'), url('alegreyasansblackitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
