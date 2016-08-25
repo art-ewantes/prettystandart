@@ -29,8 +29,8 @@ gulp.task("scripts", function(){
 		"app/libs/respond/dest/respond.min.js",
 		"app/libs/scroll2id/PageScroll2id.min.js",
 		"app/libs/owl.carousel.2.0.0/owl.carousel.min.js",
-		"app/libs/bootstrapvalidator/dist/js/jqBootstrapValidation.js",
 		"app/libs/owl.carousel/dist/owl.carousel.min.js",
+		"app/libs/bootstrapvalidator/dist/js/jqBootstrapValidation.js",
 		])
 	.pipe(concat("libs.min.js"))
 	.pipe(uglify())

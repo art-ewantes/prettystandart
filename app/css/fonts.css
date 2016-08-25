@@ -11,6 +11,18 @@
   src: url("../fonts/BilboSwashCaps-Regular/BilboSwashCaps-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/BilboSwashCaps-Regular/BilboSwashCaps-Regular.woff") format("woff"), url("../fonts/BilboSwashCaps-Regular/BilboSwashCaps-Regular.ttf") format("truetype"); }
 
 @font-face {
+  font-family: "Bilbo-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Bilbo-Regular/Bilbo-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Bilbo-Regular/Bilbo-Regular.woff") format("woff"), url("../fonts/Bilbo-Regular/Bilbo-Regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "OpenSansSemiBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/OpenSansSemiBold/OpenSansSemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSansSemiBold/OpenSansSemiBold.woff") format("woff"), url("../fonts/OpenSansSemiBold/OpenSansSemiBold.ttf") format("truetype"); }
+
+@font-face {
   font-family: "NirmalaUI";
   font-style: normal;
   font-weight: normal;

@@ -6,11 +6,10 @@ $(document).ready(function() {
 		$("#menu").slideToggle();
 		return false;
 	});
-	$('select').styler();
 	// $('.owl-carousel').owlCarousel({
 	//     loop:true,
 	//     margin:10,
-	//     autoplayTimeout: 4000,
+	//     autoplayTimeout: 400000000,
 	//     autoplaySpeed:1400,
 	//     pagination:true,
 	//     dots:true,
@@ -29,10 +28,8 @@ $(document).ready(function() {
 	//         }
 	//     }
 	// });
+	$("input, select, textarea").jqBootstrapValidation();
 
-	// $('.collapse').collapse();
-
-	// $(".teaser-more").parent("p").css("display","inline-block" ).html;
 });
 
 
